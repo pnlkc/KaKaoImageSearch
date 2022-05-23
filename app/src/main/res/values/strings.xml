@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KaKaoSearchAPI</string>
+    <string name="recyclerview_item_image_view_description">리사이클러뷰의 아이템입니다</string>
+    <string name="result_extend_image_view_description">이미지 클릭해서 확대되면 나오는 이미지뷰</string>
+    <string name="search_edittext_hint">검색어를 입력하세요</string>
+    <string name="search_btn">검색</string>
+    <string name="next_btn">다음</string>
+    <string name="search_result_bg_image_view_description">검색결과창 배경 이미지</string>
+</resources>
